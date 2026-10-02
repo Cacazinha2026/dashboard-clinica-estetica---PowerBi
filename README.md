@@ -71,7 +71,7 @@ A solução permite:
 - **Desempenho dos procedimentos:** analisar volume de sessões, receita, ticket médio e participação no faturamento.
 - **Desempenho dos profissionais:** comparar indicadores de receita, conversão e produtividade.
 - **Apoio à tomada de decisão:** utilizar filtros interativos e indicadores consolidados para explorar os resultados por período, procedimento, profissional e status.
-- 
+  
 ## ⚙️ Funcionalidades
 
 - Visão geral da operação
