@@ -43,7 +43,7 @@ Análise da receita total, ticket médio, receitas realizadas e perdidas, distri
 ### 📈 Relatório Executivo
 Visão consolidada dos indicadores, com detalhamento de receita, sessões, ticket, conversão e status de desempenho por procedimento.
 
-![Relatório Executivo](images/relatorio.png)
+![Relatório Executivo](images/Relatorio.png)
 
 ## 💡 Principais Indicadores
 
