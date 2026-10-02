@@ -59,6 +59,19 @@ Visão consolidada dos indicadores, com detalhamento de receita, sessões, ticke
 - Taxa de comparecimento
 - Desempenho por profissional
 
+## 🔎 Análise de Negócio
+
+O dashboard foi desenvolvido para transformar dados operacionais e financeiros em informações que apoiam o acompanhamento do desempenho e o planejamento estratégico de uma clínica estética.
+
+A solução permite:
+
+- **Gestão de clientes:** acompanhar clientes ativos, novos, recorrentes e inativos, identificando padrões de retorno e retenção.
+- **Análise financeira:** monitorar receitas realizadas e perdidas, ticket médio, evolução do faturamento e participação dos procedimentos.
+- **Eficiência operacional:** acompanhar sessões realizadas, pendentes, canceladas e atrasadas, identificando oportunidades de melhoria na gestão da agenda.
+- **Desempenho dos procedimentos:** analisar volume de sessões, receita, ticket médio e participação no faturamento.
+- **Desempenho dos profissionais:** comparar indicadores de receita, conversão e produtividade.
+- **Apoio à tomada de decisão:** utilizar filtros interativos e indicadores consolidados para explorar os resultados por período, procedimento, profissional e status.
+- 
 ## ⚙️ Funcionalidades
 
 - Visão geral da operação
